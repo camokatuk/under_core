@@ -1,3 +1,5 @@
+.idea/
+*.iml
 storage/**
 .DS_Store
 /pico-extras
